@@ -1,0 +1,17 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+/config.properties
+
+# Generated test and Allure reports
+/allure-results/
+/allure-report/
+
+# Local tooling artifacts
+/.playwright-mcp/
+/.tsupgrader/
